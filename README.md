@@ -5,7 +5,7 @@ My name is Kwanhyun KIM (Mac)
 
 #### Education
 - I have studied Bachelor of Information-Security at Mokpo University (3rd grade and drop out)
-- I am studying Computer-Science at Queensland University of Technology (a prospective graduate)
+- I am studying Bachelor of Computer-Science at Queensland University of Technology (a prospective graduate)
 
 
 #### Introudction
