@@ -1,6 +1,10 @@
-# HI, Welcome to my Github, My name is Kwanhyun KIM (Mac) 
+# HI, Welcome to my Github, 
+My name is Kwanhyun KIM (Mac) 
 
 ### Profile
+
+#### age / sex
+- 1995.03.26 (male)
 
 #### Education
 - I have studied Bachelor of Information-Security at Mokpo University (3rd grade and drop out)
