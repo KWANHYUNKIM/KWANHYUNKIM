@@ -1,7 +1,7 @@
 # HI, Welcome to my Github. 
-# Most of the information is a summary of what was learned through the assignment.
+## Most of the information is a summary of what was learned through the assignment.
 
-#Profile
+### Profile
 
 
 
