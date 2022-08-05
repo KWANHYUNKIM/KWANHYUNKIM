@@ -14,7 +14,6 @@ My name is Kwanhyun KIM and English name is Mac
 
 #### Languages
 
-
-
+-
 
 **  Most of the information is a summary of what was learned through the assignment. **
