@@ -1,13 +1,16 @@
-#RESUME
+#RESUME#
 
 ### [resume](https://github.com/KWANHYUNKIM/resume.md/blob/main/README.md)
 
 
-#STUDYING at uni
+#STUDY AT UNI#
 
 ### [Contents](https://github.com/KWANHYUNKIM/Studying_at_Uni/tree/main)
 
-#Project
+#PROJECT#
 
 ### [Capstone Projects]
 
+#INDIVIDUAL STUDY#
+
+### [Study]
