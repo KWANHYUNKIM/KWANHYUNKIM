@@ -1,10 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKWANHYUNKIM%2FKWANHYUNKIM%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### [RESUME]
+### [Resume]
 
-### [resume](https://github.com/KWANHYUNKIM/resume.md/blob/main/README.md)
+### [Resume](https://github.com/KWANHYUNKIM/resume.md/blob/main/README.md)
 
-### [Study at university](https://github.com/KWANHYUNKIM/Studying_at_Uni/tree/main)
+### [Sutdy at Uni]
+
+### [Subjects](https://github.com/KWANHYUNKIM/Studying_at_Uni/tree/main)
 
 ### [PROJECT]
 
@@ -13,6 +15,8 @@
 #### [done]
 
 ### [Capstone Projects at university]
+
+#### [link](https://joonkim.co)
 
 ### [Skills]
 
