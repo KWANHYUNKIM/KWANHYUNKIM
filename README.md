@@ -8,7 +8,7 @@
 
 ### [PROJECT]
 
-완전 반응형 웹사이트 제작: Moke Kate(https://mokate.dreamhosters.com/)
+완전 반응형 웹사이트 제작: Moke Kate(https://mokate.dreamhosters.com/) : <Strong> [진행 과정](https://github.com/KWANHYUNKIM/MoKate) </Strong>
 
 
 
