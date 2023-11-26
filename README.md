@@ -11,13 +11,12 @@
 완전 반응형 웹사이트 제작: Moke Kate(https://mokate.dreamhosters.com/)
 
 
+
 #### [To-do]
 
 #### [done]
 
 ### [Capstone Projects at university]
-
-#### [link](https://joonkim.co)
 
 ### [Skills]
 
