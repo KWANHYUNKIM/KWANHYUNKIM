@@ -35,5 +35,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=molba06)](https://solved.ac/molba06/)
 
-<img src="https://github.com/KWANHYUNKIM/KWANHYUNKIM/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/kwanhyunkim/kwanhyunkim/blob/output/github-contribution-grid-snake.svg"/>
 
