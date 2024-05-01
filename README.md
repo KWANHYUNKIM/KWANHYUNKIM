@@ -12,7 +12,11 @@
 
 ### [Blog]
 
-https://blog.naver.com/molba06
+https://blog.naver.com/molba06 
+
+### [Skill Blog] 
+
+https://950326-study.tistory.com/
 
 ### [To-do]
 
