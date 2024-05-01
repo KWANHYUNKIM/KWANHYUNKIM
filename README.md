@@ -19,7 +19,12 @@ https://blog.naver.com/molba06
 https://950326-study.tistory.com/
 
 ### [To-do]
-
+[올해 목표] <br> 
+<br> 1.운동은 최소 한시간 정도는 시간내서 하자(주3회 이상)
+<br> 2.독서는 2주 한권정도 읽자 
+<br> 3.내가 하고자 하는 일은 시간이 없어도 열정적으로 해보자. (1일 1커밋 으로 보여주자) 
+<br> 4.회사 업무 는 밀리지 않고, 프로젝트 기간 3일전에 끝내보자. 
+<br> 5.여자친구한테 항상 잘해주자! 
 ### [done]
 
 ### [Capstone Projects at university]
