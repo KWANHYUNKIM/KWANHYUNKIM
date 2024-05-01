@@ -10,11 +10,13 @@
 
 완전 반응형 웹사이트 제작: Moke Kate(https://mokate.dreamhosters.com/) : <Strong> [진행 과정](https://github.com/KWANHYUNKIM/MoKate) </Strong>
 
+### [Blog]
 
+https://blog.naver.com/molba06
 
-#### [To-do]
+### [To-do]
 
-#### [done]
+### [done]
 
 ### [Capstone Projects at university]
 
