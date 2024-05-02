@@ -40,8 +40,6 @@ https://950326-study.tistory.com/
 <br> ✅내능력을 증명할수 있는 것을 만들어보자 <br>
 ### [done]
 
-### [Capstone Projects at university]
-
 ### [Skills]
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
