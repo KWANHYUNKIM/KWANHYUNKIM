@@ -65,3 +65,8 @@ https://950326-study.tistory.com/
 
 
 ### [Book]
+
+### [Review]
+
+2024 해외 학/석/박사 과정 Global Summer Internship 모집
+
