@@ -38,10 +38,7 @@ https://950326-study.tistory.com/
 <br> ✅회사 업무 는 밀리지 않고, 프로젝트 기간 3일전에 끝내보자. <br>
 <br> ✅내 주변사람들한테 잘해주자 (특히 여자친구한테는 더더욱 잘해주자) <br>
 <br> ✅내능력을 증명할수 있는 것을 만들어보자 <br>
-### [done]
-
 ### [Skills]
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -49,7 +46,6 @@ https://950326-study.tistory.com/
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ### [Tools]
-
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon&logoColor=white">
 
@@ -60,7 +56,6 @@ https://950326-study.tistory.com/
 <img src="https://github.com/kwanhyunkim/kwanhyunkim/blob/output/github-contribution-grid-snake.svg"/>
 
 ### [Challenge]
-
 
 ### [Book]
 
