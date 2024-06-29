@@ -14,14 +14,6 @@
 
 <hr>
 
-## 😀회사생활😀
-
-### [Resume]
-
-### [Project]
-
-<hr>
-
 ### [Blog]
 
 https://blog.naver.com/molba06 
