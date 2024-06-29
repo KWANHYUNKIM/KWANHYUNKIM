@@ -30,6 +30,8 @@ https://950326-study.tistory.com/
 <br> ✅회사 업무 는 밀리지 않고, 프로젝트 기간 3일전에 끝내보자. <br>
 <br> ✅내 주변사람들한테 잘해주자 (특히 여자친구한테는 더더욱 잘해주자) <br>
 <br> ✅내능력을 증명할수 있는 것을 만들어보자 <br>
+<br> ✅백준알고리즘 플래티넘 이상 높이기 <br>
+<br> ✅깃블로그 운영 및 레쥬매 수정 <br>
 ### [Skills]
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
