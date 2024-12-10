@@ -1,59 +1,22 @@
-## 📅 연도별 README
+안녕하세요👋, 저는 김관현입니다!
+묵묵히 일을 하는 개발자 | 스스로 풀어내려고 노력하는 개발자 
+
+🛠️ 저는 이런 개발자입니다
+👨‍💻 묵묵히 맡은 일을 끝까지 완수하며, 결과로 신뢰를 쌓습니다.
+📚 새로운 기술과 도구를 배우며, 문제를 해결하기 위한 최적의 방법을 찾기 위해 끊임없이 고민합니다.
+🤝 팀워크를 중시하며, 조용하지만 확실한 협업으로 프로젝트를 성공으로 이끕니다.
+
+
+
+
+
+
+
+
+
+
+## 📅 2024년 깃허브 리드미
 - [2024년 README 보기](https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
 
-## 직장인
-
-### [Resume] 
-
-### [Resume](https://github.com/KWANHYUNKIM/resume.md/blob/main/README.md)
-
-### [Sutdy at Uni]
-
-### [Subjects](https://github.com/KWANHYUNKIM/Studying_at_Uni/tree/main)
-
-### [PROJECT]
 
 
-
-<hr>
-
-### [Blog]
-
-https://blog.naver.com/molba06 
-
-### [Skill Blog] 
-
-https://950326-study.tistory.com/
-
-### [To-do]
-👊 올해 목표👊  <br> 
-<br> ✅운동은 최소 한시간 정도는 시간내서 하자(주3회 이상) <br>
-<br> ✅독서는 2주 한권정도 읽자 <br>
-<br> ✅내가 하고자 하는 일은 시간이 없어도 열정적으로 해보자. (1일 1커밋 으로 보여주자) <br>
-<br> ✅회사 업무 는 밀리지 않고, 프로젝트 기간 3일전에 끝내보자. <br>
-<br> ✅내 주변사람들한테 잘해주자 (특히 여자친구한테는 더더욱 잘해주자) <br>
-<br> ✅내능력을 증명할수 있는 것을 만들어보자 <br>
-<br> ✅백준알고리즘 플래티넘 이상 높이기 <br>
-<br> ✅깃블로그 운영 및 레쥬매 수정 <br>
-### [Skills]
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-### [Tools]
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon&logoColor=white">
-
-### [Problem solving]
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=molba06)](https://solved.ac/molba06/)
-
-<img src="https://github.com/kwanhyunkim/kwanhyunkim/blob/output/github-contribution-grid-snake.svg"/>
-
-### [Challenge]
-철인 3종경기
-### [Book]
-
-### [Review]
