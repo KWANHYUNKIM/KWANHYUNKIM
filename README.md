@@ -1,4 +1,4 @@
-## 📅 연도별 업데이트
+## 📅 연도별 README
 - [2024년 README 보기](https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
 
 ## 😀대학생활😀
