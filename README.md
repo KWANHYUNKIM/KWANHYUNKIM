@@ -22,7 +22,7 @@
 
 
 
-# 2024 GitHub 활동 계획 및 목표 📅(https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
+# 2024 GitHub 활동 계획 및 목표(https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
 
 
 
