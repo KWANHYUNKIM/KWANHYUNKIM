@@ -55,6 +55,31 @@
 
 ---
 
+![삐뽀삐뽀119 로고](https://github.com/KWANHYUNKIM/horoscope/blob/main/client/public/images/pp119_og.jpg?raw=true)
+
+ ### 삐뽀삐뽀119 [↗ 2025.01 ~ 2025.현재까지](#) 
+
+**응용 소프트웨어 개발 및 공급업**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 프로젝트 
+
+- 🏥 **실시간 병원 검색 플랫폼 개발**
+
+  - 육아 중인 부모들을 위한 병원 검색 서비스 기획 및 구현.
+  - 위치 기반 추천, 진료 시간 필터, 상세 병원 정보 제공 등 사용자 편의 기능 구현.
+  - 모바일 최적화 및 직관적인 UI 설계.
+
+---
+
+
 ##### [2024 GitHub ReadMe](https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
 
 
