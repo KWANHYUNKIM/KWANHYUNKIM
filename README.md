@@ -57,9 +57,9 @@
 
 ![삐뽀삐뽀119 로고](https://github.com/KWANHYUNKIM/horoscope/blob/main/client/public/images/pp119_og.jpg?raw=true)
 
- ### 삐뽀삐뽀119 [↗ 2025.01 ~ 2025.현재까지](#) 
+ ### 삐뽀삐뽀119 [↗ 2025.01 ~ 현재](#) 
 
-**응용 소프트웨어 개발 및 공급업**
+**포트폴리오**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -71,14 +71,15 @@
 
 ### 프로젝트 
 
-- 🏥 **실시간 병원 검색 플랫폼 개발**
+- 📌 서비스 개요
+  - 삐뽀삐뽀119는 사용자의 위치 기반으로 가장 가까운 병원을 빠르게 검색하고, 진료과목, 진료시간, 공휴일 진료 여부 등 실시간 병원 정보를 제공하는 병원 통합 서비스 앱입니다. 뿐만 아니라, 대한민국 전역의 병원 데이터와 의료 기술 기반의 다양한     데이터를 수집·분석·시각화하여, 이용자에게 단순한 병원 검색을 넘어 의료 기술 정보까지 소개하는 통합 플랫폼을 목표로 합니다.
 
-  - 육아 중인 부모들을 위한 병원 검색 서비스 기획 및 구현.
-  - 위치 기반 추천, 진료 시간 필터, 상세 병원 정보 제공 등 사용자 편의 기능 구현.
-  - 모바일 최적화 및 직관적인 UI 설계.
-
----
-
+- 🎯 서비스 목표
+  - 위치 기반 실시간 병원 검색 기능 제공
+  - 공공 및 민간 병원 데이터를 통합하여 정확한 정보 전달
+  - 진료과, 운영시간, 공휴일 진료 등 상세 필터 제공
+  - 국내 병원 및 의료 기술에 대한 시각화된 정보 제공
+  - 일반 사용자도 쉽게 이해할 수 있는 헬스케어 데이터 플랫폼 구축
 
 ##### [2024 GitHub ReadMe](https://github.com/KWANHYUNKIM/-/blob/main/%EC%9D%BC%EB%8C%80%EA%B8%B0/README2024.md)
 
