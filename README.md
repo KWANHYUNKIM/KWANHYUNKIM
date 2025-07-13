@@ -82,6 +82,31 @@
  
 ---
 
+<img src="./assets/farm-in.png" alt="팜인 로고" width="200" height="80"/>
+
+ ### (주)팜인 [↗ 2025.07 ~ 현재](http://www.farm-in.kr/)
+
+ **환경 정화 및 복원업,전기장비제조업,전자상거래,소프트웨어 개발 및 공급업,자연과학 및 공학연구개발업**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372921?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+
+### 프로젝트
+
+- 🚀 회사 모니터링 플랫폼 개발
+  
+  - 센서 데이터 테이블 통합 및 백엔드 API 설계  
+  - 실시간 수집 데이터를 기반으로 한 대시보드 구성  
+  - 관리자 페이지를 통해 농장, 센서, 사용자 관리 기능 구현  
+  - 로그인 시 유저 정보 저장 및 권한에 따른 메뉴 접근 제어
+
+---
+
 ## 교육
 
 ### Queensland University of Technology [↗ 2020.06 ~ 2023.3](https://www.qut.edu.au/)
