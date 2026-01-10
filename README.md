@@ -86,15 +86,16 @@
 
  ### (주)팜인 [↗ 2025.07 ~ 현재](http://www.farm-in.kr/)
 
- **환경 정화 및 복원업,전기장비제조업,전자상거래,소프트웨어 개발 및 공급업,자연과학 및 공학연구개발업**
+**환경 정화 및 복원업, 전기장비제조업, 전자상거래, 소프트웨어 개발 및 공급업, 자연과학 및 공학연구개발업**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372921?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
+![SKT ellink](https://img.shields.io/badge/SKT%20ellink-0066CC?style=for-the-badge&logo=signal&logoColor=white)
+![Atmega128](https://img.shields.io/badge/Atmega128-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![C](https://img.shields.io/badge/C%20(C88%2FC89)-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### 프로젝트
 
@@ -105,6 +106,15 @@
   - 관리자 페이지를 통해 농장, 센서, 사용자 관리 기능 구현  
   - 로그인 시 유저 정보 저장 및 권한에 따른 메뉴 접근 제어
 
+- 🔧 IoT 센서 펌웨어 개발 (Atmega128)
+  
+  - Atmega128 마이크로컨트롤러 기반 센서 데이터 수집 펌웨어 개발 (C88/C89 표준)  
+  - 타이머/카운터를 활용한 정밀 타이밍 제어 및 센서 샘플링 주기 관리  
+  - MQTT 프로토콜을 통한 센서 데이터 실시간 전송 및 원격 제어 구현  
+  - UART, SPI, I2C 등 다양한 통신 인터페이스를 활용한 센서 통합  
+  - SKT ellink 모뎀을 통한 무선 통신 및 데이터 전송 구현  
+  - 128KB 플래시 메모리 제약 하에서 코드 최적화 및 메모리 효율적 설계  
+  - SDK 없이 레지스터 레벨 직접 제어를 통한 하드웨어 제어 구현 
 ---
 
 ## 교육
