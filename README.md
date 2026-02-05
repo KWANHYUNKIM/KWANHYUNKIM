@@ -54,34 +54,6 @@
   - 전자정부프레임워크 기반의 포탈 기능 재설계.
   - C#에서 Java로 변경.
 
-![삐뽀삐뽀119 로고](https://github.com/KWANHYUNKIM/horoscope/blob/main/client/public/images/pp119_og.jpg?raw=true)
-
- ### 삐뽀삐뽀119 [↗ 2025.01 ~ 현재](bippobippo119.com) 
-
-**포트폴리오**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 프로젝트 
-
-- 📌 서비스 개요
-  - 삐뽀삐뽀119는 사용자의 위치 기반으로 가장 가까운 병원을 빠르게 검색하고, 진료과목, 진료시간, 공휴일 진료 여부 등 실시간 병원 정보를 제공하는 병원 통합 서비스 앱입니다. 뿐만 아니라, 대한민국 전역의 병원 데이터와 의료 기술 기반의 다양한 데이터를 수집·분석·시각화하여, 이용자에게 단순한 병원 검색을 넘어 의료 기술 정보까지 소개하는 통합 플랫폼을 목표로 합니다.
-
-- 🎯 서비스 목표
-  - 위치 기반 실시간 병원 검색 기능 제공
-  - 공공 및 민간 병원 데이터를 통합하여 정확한 정보 전달
-  - 진료과, 운영시간, 공휴일 진료 등 상세 필터 제공
-  - 국내 병원 및 의료 기술에 대한 시각화된 정보 제공
-  - 일반 사용자도 쉽게 이해할 수 있는 헬스케어 데이터 플랫폼 구축
- 
----
-
 <img src="./assets/farm-in.png" alt="팜인 로고" width="200" height="80"/>
 
  ### (주)팜인 [↗ 2025.07 ~ 현재](http://www.farm-in.kr/)
@@ -115,6 +87,36 @@
   - SKT ellink 모뎀을 통한 무선 통신 및 데이터 전송 구현  
   - 128KB 플래시 메모리 제약 하에서 코드 최적화 및 메모리 효율적 설계  
   - SDK 없이 레지스터 레벨 직접 제어를 통한 하드웨어 제어 구현 
+---
+
+### 사이드 프로젝트 
+
+![삐뽀삐뽀119 로고](https://github.com/KWANHYUNKIM/horoscope/blob/main/client/public/images/pp119_og.jpg?raw=true)
+
+ ### 삐뽀삐뽀119 [↗ 2025.01 ~ 현재](bippobippo119.com) 
+
+**포트폴리오**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 프로젝트 
+
+- 📌 서비스 개요
+  - 삐뽀삐뽀119는 사용자의 위치 기반으로 가장 가까운 병원을 빠르게 검색하고, 진료과목, 진료시간, 공휴일 진료 여부 등 실시간 병원 정보를 제공하는 병원 통합 서비스 앱입니다. 뿐만 아니라, 대한민국 전역의 병원 데이터와 의료 기술 기반의 다양한 데이터를 수집·분석·시각화하여, 이용자에게 단순한 병원 검색을 넘어 의료 기술 정보까지 소개하는 통합 플랫폼을 목표로 합니다.
+
+- 🎯 서비스 목표
+  - 위치 기반 실시간 병원 검색 기능 제공
+  - 공공 및 민간 병원 데이터를 통합하여 정확한 정보 전달
+  - 진료과, 운영시간, 공휴일 진료 등 상세 필터 제공
+  - 국내 병원 및 의료 기술에 대한 시각화된 정보 제공
+  - 일반 사용자도 쉽게 이해할 수 있는 헬스케어 데이터 플랫폼 구축
+ 
 ---
 
 ## 교육
