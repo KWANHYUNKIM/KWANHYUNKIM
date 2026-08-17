@@ -93,7 +93,7 @@
 
 ![삐뽀삐뽀119 로고](https://github.com/KWANHYUNKIM/horoscope/blob/main/client/public/images/pp119_og.jpg?raw=true)
 
- ### 삐뽀삐뽀119 [↗ 2025.01 ~ 현재](bippobippo119.com) 
+ ### 삐뽀삐뽀119 [↗ 2025.01 ~ 05 (프로젝트 중단)](bippobippo119.com) 
 
 **포트폴리오**
 
